@@ -1,2 +1,2 @@
 # s-k-site
-Website for client 
+Gatsby site for S.K.
